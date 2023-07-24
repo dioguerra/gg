@@ -46,7 +46,7 @@ To build `gg` you need the following packages:
 You can install these dependencies in Ubuntu (17.04 or newer) by running:
 
 ```
-sudo apt-get install gcc-7 g++-7 protobuf-compiler libprotobuf-dev \
+sudo apt-get install gcc-11 g++-11 protobuf-compiler libprotobuf-dev \
                      libcrypto++-dev libcap-dev \
                      libncurses5-dev libboost-dev libssl-dev autopoint help2man \
                      libhiredis-dev texinfo automake libtool pkg-config python3-boto3
